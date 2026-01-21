@@ -1,0 +1,681 @@
+{
+  "meta": {
+    "theme": "professional",
+    "lastModified": "2026-01-21T00:00:00.000Z"
+  },
+  "basics": {
+    "name": "Adam DJ Brett",
+    "label": "International Research Associate",
+    "image": "https://www.adamdjbrett.com/assets/img/adam-dj-brett-256x256-min.jpg",
+    "email": "info@adamdjbrett.com",
+    "phone": "+1 (817) 760-0292",
+    "url": "https://www.adamdjbrett.com",
+    "summary": "Operations Manager and International Research Associate with the American Indian Law Alliance and a Visiting Professor of Digital Humanities and Indigenous Studies at United Lutheran Seminary",
+    "location": {
+      "address": "6339 Charlotte Pike #532 - Virtual",
+      "city": "Nashville",
+      "countryCode": "US",
+      "region": "Tennessee",
+      "postalCode": "37029"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "adamdjbrett",
+        "url": "https://linkedin.com/in/adamdjbrett"
+      },
+      {
+        "network": "GitHub",
+        "username": "adamdjbrett",
+        "url": "https://github.com/adamdjbrett"
+      },
+      {
+        "network": "Twitter",
+        "username": "__adjb",
+        "url": "https://twitter.com/__adjb"
+      },
+      {
+        "network": "Mastodon",
+        "username": "adjb",
+        "url": "https://social.lol/@adjb"
+      },
+      {
+        "network": "ORCID",
+        "username": "0009-0004-6725-8425",
+        "url": "https://orcid.org/0009-0004-6725-8425"
+      },
+      {
+        "network": "Google Scholar",
+        "username": "RDtqciQAAAAJ",
+        "url": "https://scholar.google.com/citations?user=RDtqciQAAAAJ"
+      }
+    ]
+  },
+  "education": [
+    {
+      "institution": "Syracuse University",
+      "url": "https://artsandsciences.syracuse.edu/religion/",
+      "area": "Religion",
+      "studyType": "PhD",
+      "startDate": "2009-01-01",
+      "endDate": "2015-12-31",
+      "summary": "Doctoral research focused on Religion in the Americas and Indigenous religions"
+    },
+    {
+      "institution": "Brite Divinity School at Texas Christian University",
+      "url": "https://brite.edu",
+      "area": "Divinity",
+      "studyType": "Master of Theological Studies (MTS)",
+      "startDate": "2003-01-01",
+      "endDate": "2006-12-31"
+    },
+    {
+      "institution": "Brite Divinity School at Texas Christian University",
+      "url": "https://brite.edu",
+      "area": "Divinity",
+      "studyType": "Master of Theology (ThM)",
+      "startDate": "2005-01-01",
+      "endDate": "2007-12-31"
+    },
+    {
+      "institution": "Warner University",
+      "url": "https://warner.edu",
+      "area": "General Studies",
+      "studyType": "Bachelor of Arts (BA)",
+      "startDate": "1998-01-01",
+      "endDate": "2002-12-31"
+    }
+  ],
+  "work": [
+    {
+      "name": "American Indian Law Alliance",
+      "position": "Operations Manager & International Research Associate",
+      "url": "https://aila.ngo",
+      "summary": "Managing operations and conducting international research initiatives with the American Indian Law Alliance, a prominent organization focused on Indigenous rights and advocacy."
+    },
+    {
+      "name": "United Lutheran Seminary",
+      "position": "Visiting Professor of Digital Humanities and Indigenous Studies",
+      "url": "https://www.unitedlutheranseminary.edu",
+      "summary": "Teaching courses in digital humanities and Indigenous studies, bridging academic research with digital methodologies and Indigenous knowledge systems."
+    },
+    {
+      "name": "Syracuse University",
+      "position": "Part-time Faculty - Department of Religion",
+      "url": "https://artsandsciences.syracuse.edu/religion/",
+      "summary": "Part-time teaching faculty in the Department of Religion at Syracuse University, contributing to courses in religious studies and related disciplines."
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Doctrine of Discovery Project",
+      "position": "Contributor & Author",
+      "url": "https://doctrineofdiscovery.org",
+      "summary": "Contributing research and commentary on the Doctrine of Discovery and its impacts on Indigenous peoples and international law."
+    }
+  ],
+  "skills": [
+    {
+      "name": "Digital Humanities",
+      "level": "Expert",
+      "keywords": [
+        "Digital scholarship",
+        "Web development",
+        "Data visualization",
+        "Digital archives",
+        "Electronic publishing"
+      ]
+    },
+    {
+      "name": "Indigenous Studies",
+      "level": "Expert",
+      "keywords": [
+        "Indigenous rights",
+        "Decolonization",
+        "Indigenous history",
+        "Traditional knowledge",
+        "Indigenous governance"
+      ]
+    },
+    {
+      "name": "Operations Management",
+      "level": "Advanced",
+      "keywords": [
+        "Strategic planning",
+        "Project management",
+        "Organizational coordination",
+        "Process improvement",
+        "International relations"
+      ]
+    },
+    {
+      "name": "Academic Research",
+      "level": "Advanced",
+      "keywords": [
+        "Religious studies",
+        "Ethnography",
+        "Qualitative research",
+        "Literature review",
+        "Academic writing"
+      ]
+    },
+    {
+      "name": "Web Technologies",
+      "level": "Proficient",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Eleventy",
+        "Static site generators",
+        "Web administration"
+      ]
+    },
+    {
+      "name": "Web Administration",
+      "level": "Proficient",
+      "keywords": [
+        "Site maintenance",
+        "Server management",
+        "CMS administration",
+        "Technical support"
+      ]
+    },
+    {
+      "name": "Documentation",
+      "level": "Advanced",
+      "keywords": [
+        "Technical writing",
+        "API documentation",
+        "User guides",
+        "Markdown",
+        "RST"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Indigenous Knowledge Systems",
+      "keywords": [
+        "Traditional ecological knowledge",
+        "Indigenous governance",
+        "Indigenous pedagogy"
+      ]
+    },
+    {
+      "name": "Digital Culture and Technology",
+      "keywords": [
+        "Digital humanities",
+        "Technology ethics",
+        "Open-source movements"
+      ]
+    },
+    {
+      "name": "Religious Studies",
+      "keywords": [
+        "Comparative religion",
+        "Religion in the Americas",
+        "Theology and social justice"
+      ]
+    },
+    {
+      "name": "International Law and Rights",
+      "keywords": [
+        "Indigenous rights",
+        "International advocacy",
+        "Doctrine of Discovery"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "American Indian Law Alliance",
+      "reference": "References available upon request from the American Indian Law Alliance regarding work as Operations Manager and International Research Associate"
+    },
+    {
+      "name": "United Lutheran Seminary",
+      "reference": "References available upon request from United Lutheran Seminary regarding teaching and academic contributions"
+    },
+    {
+      "name": "Syracuse University Department of Religion",
+      "reference": "References available upon request from Syracuse University regarding research and teaching contributions"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Doctrine of Discovery Documentation Project",
+      "description": "Contributing to comprehensive documentation and research on the historical and ongoing impacts of the Doctrine of Discovery on Indigenous peoples and international law",
+      "highlights": [
+        "Author and contributor to Doctrine of Discovery Project",
+        "Research on Indigenous rights and international advocacy",
+        "Academic publications and commentaries"
+      ],
+      "url": "https://doctrineofdiscovery.org"
+    },
+    {
+      "name": "Digital Humanities Initiatives",
+      "description": "Developing and teaching digital humanities curricula that integrate Indigenous knowledge systems with contemporary digital methodologies",
+      "highlights": [
+        "Course development in digital humanities",
+        "Integration of Indigenous studies and technology",
+        "Web-based scholarly projects"
+      ]
+    },
+    {
+      "name": "Personal Academic Website",
+      "description": "Maintaining comprehensive academic and professional web presence documenting research, publications, and teaching",
+      "highlights": [
+        "Professional portfolio site",
+        "Academic publications database",
+        "Digital resume and CV"
+      ],
+      "url": "https://www.adamdjbrett.com"
+    }
+  ],
+  "publications": [
+    {
+      "name": "Examining the Doctrine of Discovery in Religion and Indigenous Studies",
+      "publisher": "Religion Compass",
+      "releaseDate": "2026-01-01",
+      "url": "https://doi.org/10.1111/rec3.70039",
+      "summary": "Co-author with Betty Hill. Analyzes the matrix of enslavement, exploitation, and extraction within settler-colonial systems and examines scholarly engagement with the Doctrine of Discovery across Religious Studies, Legal Studies, and Indigenous Studies."
+    },
+    {
+      "name": "Healing the Sacred: The Fight to Restore Onondaga Lake and Honor Indigenous Land",
+      "publisher": "International Journal on Responsibility",
+      "releaseDate": "2026-01-01",
+      "url": "https://doi.org/10.62365/2576-0955.1133",
+      "summary": "Co-author with Betty Hill (Lyons). Examines environmental restoration and Indigenous land rights in the context of Onondaga Lake."
+    },
+    {
+      "name": "Documenting Domination in International Relations Through the Doctrine of Discovery",
+      "publisher": "Cross Currents",
+      "releaseDate": "2024-12-01",
+      "url": "https://doi.org/10.1353/cro.2024.a963640",
+      "summary": "Co-author with Betty Hill. Discusses AILA's work to dismantle the Doctrine of Discovery through international advocacy and collaboration, emphasizing the shift from rights-based to responsibility-based approaches."
+    },
+    {
+      "name": "Book Notes: New Books in the Study of Domination",
+      "publisher": "Cross Currents",
+      "releaseDate": "2024-12-01",
+      "url": "https://doi.org/10.1353/cro.2024.a963642",
+      "summary": "Co-author with Betty Hill. Reviews books on domination, including works on Indigenous values, African Diaspora religions, and systemic oppression."
+    },
+    {
+      "name": "200 Years of Johnson v. M'Intosh: Indigenous Responses to the Religious Foundations of Racism",
+      "publisher": "Cross Currents",
+      "releaseDate": "2024-12-01",
+      "url": "https://doi.org/10.1353/cro.2024.a963625",
+      "summary": "Co-author with Philip P. Arnold and Sandra Bigtree. Examines the religious foundations of racism through analysis of the Johnson v. M'Intosh decision."
+    },
+    {
+      "name": "The Religious Origins of White Supremacy and The Doctrine of Christian Discovery",
+      "publisher": "Cross Currents",
+      "releaseDate": "2024-12-01",
+      "url": "https://doi.org/10.1353/cro.2024.a963641",
+      "summary": "Co-author with Philip P. Arnold and Sandra Bigtree. Explores the theological and historical foundations of white supremacy through the Doctrine of Christian Discovery."
+    },
+    {
+      "name": "Documenting Domination: From the Doctrine of Christian Discovery to Dominion Theology",
+      "publisher": "Religions",
+      "releaseDate": "2024-01-01",
+      "url": "https://doi.org/10.3390/rel15121493",
+      "summary": "Co-author with Betty Hill (Lyons). Traces the genealogy of Christian domination from fifteenth-century papal bulls through contemporary Christian nationalist theologies, analyzing colonial charters and primary sources."
+    },
+    {
+      "name": "On the Limits of the Concept of Religious Freedom in Indigenous Communities",
+      "publisher": "Journal of the Council for Research on Religion",
+      "releaseDate": "2024-11-01",
+      "url": "https://doi.org/10.26443/jcreor.v5i2.117",
+      "summary": "Co-author with Betty Hill (Lyons). Critiques international legal framings of religious freedom, highlighting limitations in rights-based discourse and offering alternatives based on sovereignty and Two Row Wampum principles."
+    },
+    {
+      "name": "Preface and Introduction: From Indigenous Religions to Indigenous Values Vol. 5 No. 2",
+      "publisher": "Journal of the Council for Research on Religion",
+      "releaseDate": "2024-11-01",
+      "url": "https://doi.org/10.26443/jcreor.v5i2.108",
+      "summary": "Co-author with Philip P. Arnold and Sandra Bigtree. Introduces special issue on Indigenous religious freedom and belief, featuring contributions from Indigenous NGOs, nations, and leaders."
+    },
+    {
+      "name": "Digital Humanities as Preserving Inherently Ephemeral Information",
+      "publisher": "Bulletin for the Study of Religion",
+      "releaseDate": "2024-01-01",
+      "url": "http://dx.doi.org/10.1558/bsor.28913",
+      "summary": "Explores the role of digital humanities in preserving ephemeral information and knowledge systems, particularly relevant to Indigenous scholarship."
+    },
+    {
+      "name": "However, Extravagant The Pretensions Of Johnson V. M'Intosh",
+      "publisher": "Canopy Forum: On the Interactions of Law and Religion",
+      "releaseDate": "2023-03-23",
+      "url": "https://canopyforum.org/2023/03/23/however-extravagant-the-pretensions-of-johnson-v-mintosh/",
+      "summary": "Co-author with Betty Hill (Lyons). Peer-reviewed article examining Johnson v. M'Intosh and its legal and religious implications."
+    },
+    {
+      "name": "Introduction to 200 Years of Johnson v. M'Intosh: Law, Religion, and Native American Lands",
+      "publisher": "Canopy Forum",
+      "releaseDate": "2023-03-10",
+      "url": "https://canopyforum.org/2023/03/10/introduction-to-the-200-years-of-johnson-v-mintosh-law-religion-and-native-american-lands-series/",
+      "summary": "Co-author with Philip P. Arnold and Sandra Bigtree. Introduction to thematic series examining 200 years of Johnson v. M'Intosh, its legal foundations, and religious origins."
+    },
+    {
+      "name": "Reavers ain't men [sic]--or they forgot how to be: Teaching Religion in Science Fiction",
+      "publisher": "Perspectives in Religious Studies",
+      "releaseDate": "2019-01-01",
+      "url": "https://libezproxy.syr.edu/login?url=http://search.ebscohost.com/login.aspx?direct=true&db=rfh&AN=ATLAi5IE200229000408&site=ehost-live",
+      "summary": "Explores pedagogy and methodology for teaching religion through science fiction narratives, examining themes of humanity, identity, and religious meaning."
+    },
+    {
+      "name": "Religion and culture: contemporary practices and perspectives (Book Review)",
+      "publisher": "Perspectives in Religious Studies",
+      "releaseDate": "2015-01-01",
+      "summary": "Review of contemporary practices and perspectives in the study of religion and culture."
+    },
+    {
+      "name": "The world's religions: a contemporary reader (Book Review)",
+      "publisher": "Perspectives in Religious Studies",
+      "releaseDate": "2015-01-01",
+      "summary": "Review of contemporary reader on world religions."
+    },
+    {
+      "name": "Religious and Sexual Nationalisms in Central and Eastern Europe (Book Review)",
+      "publisher": "Journal of Empirical Theology",
+      "releaseDate": "2016-01-01",
+      "url": "https://brill.com/view/journals/jet/29/1/article-p133_6.xml",
+      "summary": "Review of 'Religious and Sexual Nationalisms in Central and Eastern Europe: Gods, Gays and Governments' by Sremac and Ganzevoort."
+    },
+    {
+      "name": "Catastrophic Christianity: An Iconological Study of the Messianic Idea in American Protestant Christianity Circa 1900-1940",
+      "publisher": "Syracuse University",
+      "releaseDate": "2022-01-01",
+      "url": "https://surface.syr.edu/etd/1544/",
+      "summary": "PhD Dissertation. Analyzes the messianic idea in America through four case studies examining fundamentalism, authoritarianism, commodification of religion, and hucksterism in early 20th century U.S. culture."
+    }
+  ],
+  "editorialWork": [
+    {
+      "title": "\"We Were Planting Corn and They Were Planting Crosses\": Commodifying the Sacred in Johnson V. M'Intosh",
+      "status": "Forthcoming",
+      "publisher": "Syracuse University Press",
+      "editors": ["Philip P. Arnold", "Sandra Bigtree", "Adam DJ Brett"],
+      "summary": "Edited volume examining the commodification of the sacred and Indigenous lands through the Johnson v. M'Intosh decision."
+    },
+    {
+      "title": "200 Years of Johnson v. M'Intosh: Law, Religion, and Native American Lands",
+      "status": "Published",
+      "publisher": "Canopy Forum Thematic Series",
+      "date": "March-April 2023",
+      "editors": ["Philip P. Arnold", "Sandra Bigtree", "Adam DJ Brett"],
+      "url": "https://dofd.fyi/c/abstract",
+      "summary": "Guest edited special thematic series exploring law, religion, and Indigenous rights in the context of Johnson v. M'Intosh."
+    }
+  ],
+  "teachingExperience": [
+    {
+      "institution": "United Lutheran Seminary",
+      "title": "Visiting Professor for Digital Humanities and Indigenous Studies",
+      "courses": [
+        {
+          "code": "ST-720/ST-920",
+          "title": "Indigenous Religions and Spirituality",
+          "semester": "Fall 2025"
+        },
+        {
+          "code": "HTH 930",
+          "title": "Public And Digital Humanities For Public Theology - Doctoral Seminar",
+          "semester": "Spring 2025"
+        }
+      ]
+    },
+    {
+      "institution": "Syracuse University",
+      "title": "Part-time Faculty - Department of Religion",
+      "courses": [
+        {
+          "code": "Religion 320",
+          "title": "Religion in Science Fiction",
+          "semester": "Fall 2014"
+        },
+        {
+          "code": "Religion 120",
+          "title": "Introduction to the Study of Religion",
+          "semester": "Spring 2015"
+        }
+      ]
+    },
+    {
+      "institution": "American Baptist Churches of New York State",
+      "title": "Instructor",
+      "courses": [
+        {
+          "title": "New Testament Lay Studies Course",
+          "semester": "Spring 2019"
+        }
+      ]
+    }
+  ],
+  "academicActivities": [
+    {
+      "year": 2024,
+      "title": "Haudenosaunee and Indigenous Perspectives on Tracing the Doctrine of Christian Discovery through British Colonial Sources",
+      "type": "Workshop",
+      "location": "The National Archives (TNA), United Kingdom",
+      "dates": "May 22-29, 2024"
+    },
+    {
+      "year": 2023,
+      "title": "The Religious Origins of White Supremacy in U.S. Law and Culture",
+      "type": "Conference Presentation",
+      "organization": "American Academy of Religion Annual Meeting"
+    },
+    {
+      "year": 2014,
+      "title": "Scholarly Formation",
+      "type": "Panel Participation",
+      "organization": "American Academy of Religion Annual Meeting",
+      "location": "San Diego, CA",
+      "date": "November 22, 2014",
+      "note": "Panelists included Thomas A. Tweed, David Harrington Watt, Kathryn Lofton, Vasudha Narayanan, and others"
+    },
+    {
+      "year": 2014,
+      "title": "Teaching Religion in America across Institutional Contexts",
+      "type": "Roundtable Organizer and Chair",
+      "organization": "Eastern International Region of the American Academy of Religion",
+      "location": "Syracuse University",
+      "date": "May 3, 2014"
+    },
+    {
+      "year": 2014,
+      "title": "Gender and Sexuality in the Oneida Community",
+      "type": "Panel Chair",
+      "organization": "Eastern International Region of the American Academy of Religion",
+      "location": "Syracuse University",
+      "date": "May 3, 2014"
+    },
+    {
+      "year": 2009,
+      "title": "World Conference of Associated Theological Institutions (WOCATI) Executive Committee Meeting",
+      "type": "Co-Organizer",
+      "location": "Princeton Theological Seminary, Princeton, NJ",
+      "dates": "March 17-20, 2009"
+    }
+  ],
+  "serviceToProfession": [
+    {
+      "organization": "American Academy of Religion",
+      "roles": [
+        {
+          "title": "Steering Committee, Indigenous Religious Traditions Unit",
+          "years": "2026-Current"
+        },
+        {
+          "title": "Interim Graduate Student Director, Eastern International Region",
+          "years": "2019-2020"
+        }
+      ]
+    },
+    {
+      "organization": "International Association for the Study of Religion and Nature (IASRN)",
+      "roles": [
+        {
+          "title": "Board Member",
+          "years": "2024-Present"
+        }
+      ]
+    }
+  ],
+  "publicScholarship": [
+    {
+      "title": "3MMM - Episode 240: Teaching Religious Studies",
+      "publisher": "Eileen Campbell-Reed, Academic Entrepreneur",
+      "date": "August 27, 2024",
+      "url": "https://3mmm.us/episode240",
+      "type": "Podcast Interview"
+    },
+    {
+      "title": "3MMM - Episode 206: Adam DJ Brett's Favorite Things",
+      "publisher": "Eileen Campbell-Reed, Academic Entrepreneur",
+      "date": "August 7, 2023",
+      "url": "https://3mmm.us/episode206",
+      "type": "Podcast Interview"
+    },
+    {
+      "title": "Trump's Dangerous Rhetoric of Dehumanization",
+      "publisher": "Good Faith Media",
+      "date": "April 2, 2024",
+      "url": "https://brett.im/gfm",
+      "type": "Commentary"
+    },
+    {
+      "title": "Louisiana's Ten Commandments of Truthiness",
+      "publisher": "Good Faith Media",
+      "date": "July 16, 2024",
+      "url": "https://brett.im/10",
+      "type": "Commentary"
+    },
+    {
+      "title": "What are we celebrating with the Erie Canal? A gash in Mother Earth",
+      "publisher": "Syracuse.com",
+      "type": "Guest Opinion",
+      "coauthors": ["Betty Hill"]
+    },
+    {
+      "title": "Nuclear power is wrong for New York, environmentally and economically",
+      "publisher": "Times Union",
+      "url": "https://brett.im/nukes/",
+      "type": "Commentary"
+    }
+  ],
+  "academicPresentations": [
+    {
+      "year": 2025,
+      "title": "Lacrosse as More than A Game",
+      "type": "Honors College Lecture",
+      "organization": "MTSU",
+      "context": "Honors College Lecture Series on Play"
+    },
+    {
+      "year": 2024,
+      "title": "Introduction to Sociology of Religion",
+      "type": "Invited Lecture",
+      "organization": "Vanderbilt University",
+      "instructor": "Dr. Laure Woods"
+    },
+    {
+      "year": 2023,
+      "title": "Documenting the Doctrine of Discovery",
+      "type": "Invited Lecture",
+      "organization": "APSU"
+    }
+  ],
+  "professionalAssociations": [
+    {
+      "name": "American Academy of Religion",
+      "membershipYears": "2011-Present"
+    },
+    {
+      "name": "International Association for the Study of Religion and Nature (IASRN)",
+      "membershipYears": "2024-Present"
+    }
+  ],
+  "awards": [
+    {
+      "title": "PhD in Religion",
+      "issuer": "Syracuse University",
+      "date": "2022"
+    }
+  ],
+  "technicalSkills": [
+    {
+      "category": "Web Development",
+      "skills": [
+        "HTML5",
+        "CSS3",
+        "JavaScript (ES6+)",
+        "TypeScript",
+        "React",
+        "Next.js",
+        "Static Site Generators (Eleventy, Hugo)",
+        "Responsive Web Design"
+      ]
+    },
+    {
+      "category": "Web Technologies",
+      "skills": [
+        "WordPress",
+        "CMS Administration",
+        "Web Hosting",
+        "Domain Management",
+        "SSL/TLS Certificates"
+      ]
+    },
+    {
+      "category": "Digital Tools",
+      "skills": [
+        "Git/GitHub",
+        "Markdown",
+        "YAML",
+        "JSON",
+        "API Integration",
+        "REST APIs",
+        "Semantic HTML"
+      ]
+    },
+    {
+      "category": "Digital Humanities",
+      "skills": [
+        "Digital Archives",
+        "Text Analysis",
+        "Data Visualization",
+        "Digital Storytelling",
+        "Web-based Scholarship"
+      ]
+    },
+    {
+      "category": "Academic Writing & Publishing",
+      "skills": [
+        "LaTeX",
+        "BibTeX",
+        "Academic Writing",
+        "Scholarly Publishing",
+        "Citation Management (Zotero)"
+      ]
+    },
+    {
+      "category": "Social Media & Communications",
+      "skills": [
+        "Social Media Management",
+        "Email Marketing",
+        "Listserv Management",
+        "Content Strategy",
+        "Digital Communications"
+      ]
+    }
+  ]
+}
